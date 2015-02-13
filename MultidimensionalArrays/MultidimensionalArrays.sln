@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FillTheMatrix", "FillTheMatrix\01.FillTheMatrix.csproj", "{2DA4C4FF-935F-494C-9D00-29AA0CD9F611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{936B98FA-821E-4175-9141-113F700730A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA4C4FF-935F-494C-9D00-29AA0CD9F611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA4C4FF-935F-494C-9D00-29AA0CD9F611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA4C4FF-935F-494C-9D00-29AA0CD9F611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA4C4FF-935F-494C-9D00-29AA0CD9F611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936B98FA-821E-4175-9141-113F700730A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936B98FA-821E-4175-9141-113F700730A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936B98FA-821E-4175-9141-113F700730A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936B98FA-821E-4175-9141-113F700730A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
