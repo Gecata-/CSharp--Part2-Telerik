@@ -5,7 +5,13 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FillTheMatrix", "FillTheMatrix\01.FillTheMatrix.csproj", "{2DA4C4FF-935F-494C-9D00-29AA0CD9F611}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{936B98FA-821E-4175-9141-113F700730A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MaximalSum", "MaximalSum\02.MaximalSum.csproj", "{936B98FA-821E-4175-9141-113F700730A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SequenceNMatrix", "SequenceNMatrix\03.SequenceNMatrix.csproj", "{F0E07350-59A3-4FCF-A3F2-599F225E4289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BinarySearch", "BinarySearch\04.BinarySearch.csproj", "{7EDB4B0C-74D6-4D8F-BD49-946BBD479662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SortByStringLength", "SortByStringLength\05.SortByStringLength.csproj", "{7D1B5BF4-914D-4614-BBBC-4878034D9A5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{936B98FA-821E-4175-9141-113F700730A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{936B98FA-821E-4175-9141-113F700730A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{936B98FA-821E-4175-9141-113F700730A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E07350-59A3-4FCF-A3F2-599F225E4289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E07350-59A3-4FCF-A3F2-599F225E4289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E07350-59A3-4FCF-A3F2-599F225E4289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E07350-59A3-4FCF-A3F2-599F225E4289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDB4B0C-74D6-4D8F-BD49-946BBD479662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDB4B0C-74D6-4D8F-BD49-946BBD479662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDB4B0C-74D6-4D8F-BD49-946BBD479662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDB4B0C-74D6-4D8F-BD49-946BBD479662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1B5BF4-914D-4614-BBBC-4878034D9A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1B5BF4-914D-4614-BBBC-4878034D9A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1B5BF4-914D-4614-BBBC-4878034D9A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1B5BF4-914D-4614-BBBC-4878034D9A5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
