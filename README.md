@@ -9,5 +9,5 @@ C# Second part
 3. Methods    -       [[Instructions]]   
 (https://github.com/TelerikAcademy/CSharp-Part-2/tree/master/03.%20Methods)
 
-4.NumeralSystems  -   [[Instructions]] 
+4. NumeralSystems   -   [[Instructions]] 
 (https://github.com/TelerikAcademy/CSharp-Part-2/blob/master/04.%20Numeral%20Systems/README.md)
