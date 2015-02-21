@@ -13,3 +13,6 @@ C# Second part
 (https://github.com/TelerikAcademy/CSharp-Part-2/blob/master/04.%20Numeral%20Systems/README.md)
 
 5. UsingClassesAndObjects   - 
+
+6. StringsAndTextProcessing   - [[Instructions]]
+(https://github.com/TelerikAcademy/CSharp-Part-2/blob/master/06.%20Strings%20and%20Text%20Processing/README.md)
