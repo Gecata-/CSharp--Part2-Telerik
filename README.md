@@ -12,7 +12,8 @@ C# Second part
 4. NumeralSystems   -   [[Instructions]] 
 (https://github.com/TelerikAcademy/CSharp-Part-2/blob/master/04.%20Numeral%20Systems/README.md)
 
-5. UsingClassesAndObjects   - 
+5. UsingClassesAndObjects   - [[Instructions]] 
+(https://github.com/TelerikAcademy/CSharp-Part-2/blob/master/05.%20Using%20Classes%20and%20Objects/README.md)
 
 6. StringsAndTextProcessing   - [[Instructions]]
 (https://github.com/TelerikAcademy/CSharp-Part-2/blob/master/06.%20Strings%20and%20Text%20Processing/README.md)
