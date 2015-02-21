@@ -11,3 +11,5 @@ C# Second part
 
 4. NumeralSystems   -   [[Instructions]] 
 (https://github.com/TelerikAcademy/CSharp-Part-2/blob/master/04.%20Numeral%20Systems/README.md)
+
+5. UsingClassesAndObjects   - 
