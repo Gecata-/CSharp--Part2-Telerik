@@ -16,9 +16,7 @@ class UnicodeCharacters
        // Uncomment to test.
        // string text = "Hi how are you?";
         string text = "Hi!";
-        int number = 0;
-        string unicode = "";
-
+        
         foreach (var symbol in text)
         {
             Console.Write("\\u{0:X4}",(int)symbol);
