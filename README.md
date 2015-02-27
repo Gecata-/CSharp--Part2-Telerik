@@ -21,5 +21,5 @@ C# Second part
 7. ExceptionHandling  -   [[Instructions]]
 (https://github.com/TelerikAcademy/CSharp-Part-2/blob/master/07.%20Exception%20Handling/README.md)
 
-8.TextFiles   -   [[Instructions]]
+8. TextFiles   -   [[Instructions]]
 (https://github.com/TelerikAcademy/CSharp-Part-2/blob/master/08.%20Text%20Files/README.md)
