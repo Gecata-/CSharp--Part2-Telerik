@@ -1,0 +1,3 @@
+word: "RoboCop" had occured 3 times
+word: "film" had occured 3 times
+word: "a" had occured 9 times
