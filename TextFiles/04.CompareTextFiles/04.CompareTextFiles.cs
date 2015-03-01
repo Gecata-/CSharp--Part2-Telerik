@@ -9,16 +9,14 @@ using System.IO;
     class CompareTextFiles
     {
         static void Main()
-        {
-            var streamReader = new StreamReader(@"..\..\LoremIpsum.txt");
-            var secondStreamReader = new StreamReader(@"..\..\LoremIpsum2.txt");
+        {           
             string firstTextLine;
             string secondTextLine;
             int sameLines = 0;
             int differentlines = 0;
-            using (streamReader)
+            using (var streamReader = new StreamReader(@"..\..\LoremIpsum.txt"))
             {
-                using (secondStreamReader)
+                using (var secondStreamReader = new StreamReader(@"..\..\LoremIpsum2.txt"))
                 {
                     firstTextLine = streamReader.ReadLine();
                     secondTextLine = secondStreamReader.ReadLine();

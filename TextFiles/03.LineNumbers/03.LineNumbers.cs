@@ -9,10 +9,9 @@ class LineNumbers
 {
     static void Main()
     {
-        var streamReader = new StreamReader(@"..\..\LoremIpsum.txt");
         var streamWriter = new StreamWriter(@"..\..\LineNumbers.txt");
         int lineCount = 1;
-        using (streamReader)
+        using (var streamReader = new StreamReader(@"..\..\LoremIpsum.txt"))
         {
             string line = streamReader.ReadLine();
             while (line != null)

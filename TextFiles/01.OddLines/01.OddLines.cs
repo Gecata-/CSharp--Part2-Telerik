@@ -8,8 +8,7 @@ class OddLines
 {
     static void Main()
     {
-        StreamReader streamReader = new StreamReader(@"..\..\LoremIpsum.txt");
-        using (streamReader)
+        using (StreamReader streamReader = new StreamReader(@"..\..\LoremIpsum.txt"))
         {
             string line = streamReader.ReadLine();
             int oddLine = 1;
